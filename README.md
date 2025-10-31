@@ -15,6 +15,7 @@ Session Management: Setelah login, data user tersimpan
 
 
 2. **Pembelian VP (3 Langkah)**
+
 Langkah 1: Input User ID
 
 User memasukkan Riot ID mereka (format: PlayerName#TAG)
@@ -83,11 +84,12 @@ Konfirmasi sebelum menghapus
 Paket yang sedang dipilih akan otomatis di-reset
 
 
-6. **Dark Mode 🌙
-**
+6. **Dark Mode 🌙**
+   
 Toggle antara tema terang dan gelap
 Semua warna UI berubah sesuai tema
 Nyaman untuk digunakan malam hari
+
 
 LINK LOOM:
 https://www.loom.com/share/818f373a6d204072bc6ca02d7f3c1db1
