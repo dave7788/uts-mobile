@@ -1,9 +1,9 @@
 <img width="553" height="934" alt="image" src="https://github.com/user-attachments/assets/64887c3d-667a-4ffe-b9a8-72a3e585cb38" /> <img width="538" height="941" alt="image" src="https://github.com/user-attachments/assets/70326a67-ecfe-4914-98a0-813834201d1b" />
 
 
-🎯 Fitur-Fitur Utama
+🎯 **Fitur-Fitur Utama**
 
-1. Sistem Autentikasi
+1. **Sistem Autentikasi**
 
 Login & Register: User bisa masuk atau daftar akun baru
 Role Management:
@@ -14,7 +14,7 @@ Admin: email yang berakhiran @admin.com dapat mengelola paket VP
 Session Management: Setelah login, data user tersimpan
 
 
-2. Pembelian VP (3 Langkah)
+2. **Pembelian VP (3 Langkah)**
 Langkah 1: Input User ID
 
 User memasukkan Riot ID mereka (format: PlayerName#TAG)
@@ -38,7 +38,7 @@ OVO (+Rp 5.000)
 DANA (+Rp 5.000)
 
 
-3. Ringkasan Pesanan
+3.** Ringkasan Pesanan**
 
 Menampilkan detail lengkap sebelum checkout:
 
@@ -49,7 +49,7 @@ Biaya admin (jika ada)
 Total harga dengan format Rupiah
 
 
-4. Riwayat Transaksi 📋
+4. **Riwayat Transaksi 📋**
 
 User yang login bisa melihat semua transaksi mereka
 Detail transaksi meliputi:
@@ -62,7 +62,7 @@ Metode pembayaran
 Total pembayaran
 
 
-5. Admin Panel ⚙️ (Khusus Admin)
+5. **Admin Panel ⚙️ (Khusus Admin)**
 
 Tambah Paket Baru:
 
@@ -83,8 +83,8 @@ Konfirmasi sebelum menghapus
 Paket yang sedang dipilih akan otomatis di-reset
 
 
-6. Dark Mode 🌙
-
+6. **Dark Mode 🌙
+**
 Toggle antara tema terang dan gelap
 Semua warna UI berubah sesuai tema
 Nyaman untuk digunakan malam hari
