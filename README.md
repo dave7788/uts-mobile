@@ -39,7 +39,7 @@ OVO (+Rp 5.000)
 DANA (+Rp 5.000)
 
 
-3.** Ringkasan Pesanan**
+3. **Ringkasan Pesanan**
 
 Menampilkan detail lengkap sebelum checkout:
 
