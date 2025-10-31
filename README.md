@@ -1,4 +1,6 @@
-<img width="538" height="941" alt="image" src="https://github.com/user-attachments/assets/70326a67-ecfe-4914-98a0-813834201d1b" />
+<img width="553" height="934" alt="image" src="https://github.com/user-attachments/assets/64887c3d-667a-4ffe-b9a8-72a3e585cb38" /> <img width="538" height="941" alt="image" src="https://github.com/user-attachments/assets/70326a67-ecfe-4914-98a0-813834201d1b" />
+
+
 🎯 Fitur-Fitur Utama
 
 1. Sistem Autentikasi
