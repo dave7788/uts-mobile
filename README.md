@@ -3,6 +3,7 @@
 
 🎯 **Fitur-Fitur Utama**
 
+
 1. **Sistem Autentikasi**
 
 Login & Register: User bisa masuk atau daftar akun baru
@@ -12,6 +13,7 @@ User biasa: bisa beli VP dan lihat riwayat
 Admin: email yang berakhiran @admin.com dapat mengelola paket VP
 
 Session Management: Setelah login, data user tersimpan
+
 
 
 2. **Pembelian VP (3 Langkah)**
@@ -39,6 +41,7 @@ OVO (+Rp 5.000)
 DANA (+Rp 5.000)
 
 
+
 3. **Ringkasan Pesanan**
 
 Menampilkan detail lengkap sebelum checkout:
@@ -48,6 +51,7 @@ Paket VP yang dipilih
 Metode pembayaran
 Biaya admin (jika ada)
 Total harga dengan format Rupiah
+
 
 
 4. **Riwayat Transaksi 📋**
@@ -61,6 +65,7 @@ User ID
 Jumlah VP + bonus
 Metode pembayaran
 Total pembayaran
+
 
 
 5. **Admin Panel ⚙️ (Khusus Admin)**
@@ -82,6 +87,7 @@ Hapus Paket:
 
 Konfirmasi sebelum menghapus
 Paket yang sedang dipilih akan otomatis di-reset
+
 
 
 6. **Dark Mode 🌙**
